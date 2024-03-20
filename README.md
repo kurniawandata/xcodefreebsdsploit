@@ -1,4 +1,9 @@
-# xcodefreebsdsploit
+# XcodeFreeBSDSploit
+X-code FreeBSD Sploit v0.1 Beta 1
+------------------------------
+
+![alt text](http://xcode.or.id/04_small-logo.png)
+
 Tool untuk membantu privilege escalation otomatis pada target FreeBSD
 
 Dibangun oleh Kurniawan - kurniawanajazenfone@gmail.com - https://xcode.co.id - 21 Maret 2024. 
