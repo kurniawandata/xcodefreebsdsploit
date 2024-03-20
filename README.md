@@ -11,7 +11,9 @@ Aplikasi untuk membantu privilege escalation secara otomatis pada target FreeBSD
 Program ini masih versi percobaan atau prototipe.
 
 Sumber exploit :
+
 https://www.exploit-db.com/exploits/47081
+
 https://github.com/thezdi/PoC/blob/master/CVE-2020-7460/CVE-2020-7460.c 
 
 Bagi yang ingin mengakses X-code media (PT. Teknologi Server Indonesia) :
