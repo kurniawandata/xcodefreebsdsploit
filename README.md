@@ -10,6 +10,8 @@ Dibangun oleh Kurniawan - kurniawanajazenfone@gmail.com - https://xcode.co.id - 
 Aplikasi untuk membantu privilege escalation secara otomatis pada target FreeBSD. Dengan exploit ini maka peretas cukup menjalankan program maka otomatis bisa mendapatkan akses root FreeBSD selama target mempunyai kerentanan untuk dilakukan privilege escalation dan exploit-nya tersedia di program ini.
 Program ini masih versi percobaan atau prototipe.
 
+Demo : https://www.youtube.com/watch?v=ZFV5LsjZH8s
+
 Sumber exploit :
 
 https://www.exploit-db.com/exploits/47081
