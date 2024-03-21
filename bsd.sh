@@ -13,7 +13,7 @@ case "$os" in
                 ./47081.sh
                 ;;
             *)
-                echo "Versi FreeBSD tidak didukung."
+                echo "Versi FreeBSD anda belum ada exploit-nya di tool ini."
                 ;;
         esac
         ;;
